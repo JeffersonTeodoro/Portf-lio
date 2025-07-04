@@ -1,97 +1,66 @@
-🎯 Portfólio de Desenvolvedor Full Stack
-👋 Olá! Eu sou [Seu Nome]
-Desenvolvedor Full Stack | Apaixonado por criar soluções digitais do backend ao frontend
+# 🎯 Portfólio de Desenvolvedor Full Stack
 
+# 👋 Olá! Eu sou Jefferson França Teodoro
+- Desenvolvedor Full Stack | Apaixonado por criar soluções digitais do backend ao frontend
 Sou desenvolvedor full stack com experiência em construir aplicações robustas e escaláveis, unindo performance, design responsivo e uma excelente experiência para o usuário. Tenho conhecimento em diversas tecnologias modernas e estou sempre buscando evoluir como profissional e contribuir com projetos desafiadores.
 
-🛠 Minhas Habilidades
-🚀 Front-End
-HTML5, CSS3, JavaScript (ES6+)
+# 🛠 Minhas Habilidades
 
-React.js, Vue.js ou Angular (escolha os que você usa)
+# 🚀 Front-End
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Bootstrap, Tailwind CSS
+- Responsividade e Acessibilidade
 
-Bootstrap, Tailwind CSS
+# ⚙️ Back-End
+- Node.js (Express)
+- Java (Spring Boot)
+- JavaFx
+- APIs RESTful e GraphQL
+  
+# 💾 Banco de Dados
+- Relacionais: PostgreSQL, MySQL
+- NoSQL: MongoDB,
+- JDBC: SOL
 
-Responsividade e Acessibilidade
-
-⚙️ Back-End
-Node.js (Express)
-
-Java (Spring Boot)
-
-Python (Django/Flask)
-
-APIs RESTful e GraphQL
-
-💾 Banco de Dados
-Relacionais: PostgreSQL, MySQL
-
-NoSQL: MongoDB, Redis
-
-🧪 Testes
-Jest, Mocha, JUnit
-
-☁️ DevOps & Outros
-Docker, Git, GitHub Actions
-
-Hospedagem em AWS, Heroku, Vercel
-
-CI/CD e monitoramento básico
-
-💼 Projetos em Destaque
-🌟 [Nome do Projeto 1]
-Descrição: Sistema web para [finalidade do projeto], com autenticação de usuários e painel administrativo.
-
+# ☁️ DevOps 
+- Git, GitHub
+  
+# 💼 Projetos em Destaque
+- 🌟 [Nome do Projeto 1]
+- Descrição: Sistema web para [finalidade do projeto], com autenticação de usuários e painel administrativo.
 Tecnologias: React.js, Node.js, MongoDB
-
 Link: Ver projeto
 
-🌟 [Nome do Projeto 2]
-Descrição: Aplicativo responsivo de [tema], com consumo de API externa.
+# 🌟 [Nome do Projeto 2]
+- Descrição: Aplicativo responsivo de [tema], com consumo de API externa.
+- Tecnologias: Vue.js, Express.js, PostgreSQL
+- Link: Ver projeto
 
-Tecnologias: Vue.js, Express.js, PostgreSQL
+# 🧭 Experiência Profissional
+- [Empresa ou Freelancer]
+- Período: [MM/AAAA – MM/AAAA]
+- Atuação: Desenvolvimento full stack de aplicações web e APIs RESTful, manutenção de sistemas legados e modernização de front-end com React.
 
-Link: Ver projeto
+# 🎓 Formação
+- [Nome da Graduação], [Instituição] – [Ano de conclusão]
+- Certificações:
+- [Certificado relevante 1]
+- [Certificado relevante 2]
 
-🌟 [Nome do Projeto 3]
-Descrição: API RESTful para [objetivo], com testes automatizados e documentação Swagger.
+# 💬 O que me motiva
+- Criar produtos que gerem impacto real na vida das pessoas. Acredito no poder da tecnologia bem-feita para transformar negócios e melhorar experiências.
 
-Tecnologias: Python (Flask), SQLite
+# 📫 Contato
+- ✉️ Email: [seuemail@dominio.com]
+- 🌐 Site: [www.seusite.com]
+- 💼 LinkedIn: [linkedin.com/in/seulinkedin]
+- 🐙 GitHub: [github.com/seugit]
 
-Link: Ver repositório
+# 📂 Download do Currículo
+- Baixar CV em PDF
 
-🧭 Experiência Profissional
-[Empresa ou Freelancer]
-Período: [MM/AAAA – MM/AAAA]
-Atuação: Desenvolvimento full stack de aplicações web e APIs RESTful, manutenção de sistemas legados e modernização de front-end com React.
-
-🎓 Formação
-[Nome da Graduação], [Instituição] – [Ano de conclusão]
-
-Certificações:
-
-[Certificado relevante 1]
-
-[Certificado relevante 2]
-
-💬 O que me motiva
-Criar produtos que gerem impacto real na vida das pessoas. Acredito no poder da tecnologia bem-feita para transformar negócios e melhorar experiências.
-
-📫 Contato
-✉️ Email: [seuemail@dominio.com]
-
-🌐 Site: [www.seusite.com]
-
-💼 LinkedIn: [linkedin.com/in/seulinkedin]
-
-🐙 GitHub: [github.com/seugit]
-
-📂 Download do Currículo
-Baixar CV em PDF
-
-⚡ Dicas de Personalização
-Troque os placeholders ([Seu Nome], links, projetos) pelos seus dados reais.
-
+# ⚡ Dicas de Personalização
+Troque os placeholders Jefferson, links, projetos) pelos seus dados reais.
 Adicione prints dos projetos se for criar em HTML.
-
 Se quiser, posso montar esse portfólio já em HTML/CSS pronto para subir no GitHub Pages ou Netlify.
