@@ -1,18 +1,18 @@
-# 🎯 Portfólio de Desenvolvedor Full Stack
+# 🎯 *Portfólio de Desenvolvedor Full Stack*
 
-# 👋 Olá! Eu sou Jefferson França Teodoro
-- Desenvolvedor Full Stack | Apaixonado por criar soluções digitais do backend ao frontend
+### 👋 Olá! Eu sou Jefferson França Teodoro
+- **Desenvolvedor Full Stack** | Apaixonado por criar soluções digitais do backend ao frontend
 Sou desenvolvedor full stack com experiência em construir aplicações robustas e escaláveis, unindo performance, design responsivo e uma excelente experiência para o usuário. Tenho conhecimento em diversas tecnologias modernas e estou sempre buscando evoluir como profissional e contribuir com projetos desafiadores.
 
 # 🛠 Minhas Habilidades
 
-# 🚀 Front-End
+### 🚀 Front-End
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js
 - Bootstrap, Tailwind CSS
 - Responsividade e Acessibilidade
 
-# ⚙️ Back-End
+### ⚙️ Back-End
 - Node.js (Express)
 - Java (Spring Boot)
 - JavaFx
@@ -52,13 +52,14 @@ Link: Ver projeto
 - Criar produtos que gerem impacto real na vida das pessoas. Acredito no poder da tecnologia bem-feita para transformar negócios e melhorar experiências.
 
 # 📫 Contato
-- ✉️ Email: [seuemail@dominio.com]
+- ✉️ Email: jeffersonfranca199@gmail.com
 - 🌐 Site: [www.seusite.com]
-- 💼 LinkedIn: [linkedin.com/in/seulinkedin]
-- 🐙 GitHub: [github.com/seugit]
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)  
+- 🐙  [Instagram](https://www.instagram.com/franca_teodoro/)
 
 # 📂 Download do Currículo
 - Baixar CV em PDF
+- [Currículo](https://1drv.ms/i/c/23e3663edd36cb5e/Edzbux06q-tPnjlJA2yFTfYBkJNl246r2eRroDRXIfSULQ?e=oe9Jip/)
 
 # ⚡ Dicas de Personalização
 Troque os placeholders Jefferson, links, projetos) pelos seus dados reais.
