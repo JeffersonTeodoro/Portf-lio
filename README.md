@@ -53,7 +53,6 @@ Link: Ver projeto
 
 # 📫 Contato
 - ✉️ Email: jeffersonfranca199@gmail.com
-- 🌐 Site: [www.seusite.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)  
 - 🐙  [Instagram](https://www.instagram.com/franca_teodoro/)
 
