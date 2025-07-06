@@ -39,9 +39,23 @@ Este projeto foi criado para fins de aprendizado em desenvolvimento web, explora
 [Link do prejeto](https://jeffersonteodoro.github.io/projeto-carros/) 
 
 # 🌟 Projeto Em Java 
-- Descrição: Aplicativo responsivo de [tema], com consumo de API externa.
-- Tecnologias: Vue.js, Express.js, PostgreSQL
-- Link: Ver projeto
+- Descrição: 📝 Descrição do Projeto
+Este projeto é um sistema de cadastro de usuários em Java, desenvolvido com foco em iniciantes que desejam praticar os fundamentos da linguagem. A aplicação é executada via terminal e permite que o usuário cadastre nomes, visualize a lista de usuários cadastrados e encerre o programa de forma interativa.
+O projeto utiliza conceitos básicos como:
+- Entrada de dados com Scanner
+- Estruturas de controle (if, switch, do-while)
+- Manipulação de listas com ArrayList
+- Organização simples e limpa de código Java
+  
+Este projeto é ideal para estudantes em fase inicial de aprendizado em Java e pode ser evoluído para incluir novos recursos como cadastro completo (com idade, e-mail, etc), armazenamento em arquivos ou até mesmo uma interface gráfica futuramente.
+
+🛠️ Tecnologias Utilizadas
+- **Java SE** (Java Standard Edition)
+- **JDK** (Java Development Kit) 8 ou superior
+- **Scanner** (entrada de dados pelo console)
+- **ArrayList** (armazenamento dinâmico de nomes)
+- **Terminal / Prompt de Comando**
+- [Link: Ver projeto](https://jeffersonteodoro.github.io/projeto-Java-/)
 
 # 🧭 Formação - Em breve 
 - Estácio
