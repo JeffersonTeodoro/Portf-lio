@@ -38,22 +38,21 @@ Este projeto foi criado para fins de aprendizado em desenvolvimento web, explora
   
 [Link do prejeto](https://jeffersonteodoro.github.io/projeto-carros/) 
 
-# 🌟 [Nome do Projeto 2]
+# 🌟 Projeto Em Java 
 - Descrição: Aplicativo responsivo de [tema], com consumo de API externa.
 - Tecnologias: Vue.js, Express.js, PostgreSQL
 - Link: Ver projeto
 
-# 🧭 Experiência Profissional
-- [Empresa ou Freelancer]
-- Período: [MM/AAAA – MM/AAAA]
-- Atuação: Desenvolvimento full stack de aplicações web e APIs RESTful, manutenção de sistemas legados e modernização de front-end com React.
+# 🧭 Formação - Em breve 
+- Estácio
+- Período: 4 Anos de para formação.
+- Desenvolvimento full stack - Engenharia de software
 
 # 🎓 Formação - Curso 
-- Jornada de Dev – Ano - 2025
-- Certificações:
-- [Certificado Git-Github](https://jornadadodev.com.br/certificados/5e319d5e-e52d-4eba-ae83-fedc1043b5ca) 
-- [Certificado relevante 2]
-
+- Jornada do Dev – Ano - 2025 - [Certificado Git-Github](https://jornadadodev.com.br/certificados/5e319d5e-e52d-4eba-ae83-fedc1043b5ca)
+- Jornada do Dev - Ano - 2025 - [Certificado JavaScript](https://jornadadodev.com.br/certificados/622f547d-3295-4554-9e6f-3937b484aff5)
+- Dio - Ano - 2025 - [Certificado Portfólio](https://drive.google.com/file/d/1ZBDn8oL-JHi266dL95fspCjt97gRLjFj/view?pli=1)
+- Jornada do Dev - Ano -2025 - [Certificado Desenvolvedor de Aplicativos](https://jornadadodev.com.br/certificados/59ec58f4-201f-4d60-8e5d-21ca9a504b24)
 # 💬 O que me motiva
 - Criar produtos que gerem impacto real na vida das pessoas. Acredito no poder da tecnologia bem-feita para transformar negócios e melhorar experiências.
 
