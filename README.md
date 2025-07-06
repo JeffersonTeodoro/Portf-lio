@@ -7,16 +7,15 @@ Sou desenvolvedor full stack com experiência em construir aplicações robustas
 # 🛠 Minhas Habilidades
 
 ### 🚀 Front-End
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Bootstrap, Tailwind CSS
+- HTML5, CSS3, JavaScript, TypeScript
+- React.js, React Native
 - Responsividade e Acessibilidade
 
 ### ⚙️ Back-End
-- Node.js (Express)
+- Python (Básico)
 - Java (Spring Boot)
 - JavaFx
-- APIs RESTful e GraphQL
+-  REST API 
   
 # 💾 Banco de Dados
 - Relacionais: PostgreSQL, MySQL
@@ -49,10 +48,10 @@ Este projeto foi criado para fins de aprendizado em desenvolvimento web, explora
 - Período: [MM/AAAA – MM/AAAA]
 - Atuação: Desenvolvimento full stack de aplicações web e APIs RESTful, manutenção de sistemas legados e modernização de front-end com React.
 
-# 🎓 Formação
-- [Nome da Graduação], [Instituição] – [Ano de conclusão]
+# 🎓 Formação - Curso 
+- Jornada de Dev – Ano - 2025
 - Certificações:
-- [Certificado relevante 1]
+- [Certificado Git-Github](https://jornadadodev.com.br/certificados/5e319d5e-e52d-4eba-ae83-fedc1043b5ca) 
 - [Certificado relevante 2]
 
 # 💬 O que me motiva
