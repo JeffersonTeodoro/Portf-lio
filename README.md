@@ -28,9 +28,16 @@ Sou desenvolvedor full stack com experiência em construir aplicações robustas
   
 # 💼 Projetos em Destaque
 - 🌟 Projeto Carros 
-- Descrição: Sistema web para [finalidade do projeto], com autenticação de usuários e painel administrativo.
-Tecnologias: React.js, Node.js, MongoDB
-Link do prejeto file:///C:/Users/Jefferson/OneDrive/%C3%81rea%20de%20Trabalho/Projeto%20carros/index.html 
+-🚗 Projeto Carros - Site de Apresentação de Modelos Automotivos
+Este projeto é um site desenvolvido com HTML,  e JavaScript, com o objetivo de apresentar diversos modelos de carros de forma visual e organizada. Nele, os usuários podem visualizar informações, imagens e características dos veículos destacados.
+- Principais características:
+- Página inicial com destaque para os principais modelos.
+- Layout responsivo que se adapta a diferentes dispositivos (computador, tablet e celular).
+- Estilo visual moderno e atraente.
+- Organização clara dos conteúdos, facilitando a navegação.
+Este projeto foi criado para fins de aprendizado em desenvolvimento web, explorando conceitos de estruturação de conteúdo (HTML), estilização (JavaScript).
+  
+[Link do prejeto](https://jeffersonteodoro.github.io/projeto-carros/) 
 
 # 🌟 [Nome do Projeto 2]
 - Descrição: Aplicativo responsivo de [tema], com consumo de API externa.
