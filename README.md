@@ -80,6 +80,7 @@ Este projeto é ideal para estudantes em fase inicial de aprendizado em Java e p
 - [Currículo](https://1drv.ms/i/c/23e3663edd36cb5e/Edzbux06q-tPnjlJA2yFTfYBkJNl246r2eRroDRXIfSULQ?e=oe9Jip/)
 
 # ⚡ Dicas de Personalização
-Troque os placeholders Jefferson, links, projetos) pelos seus dados reais.
-Adicione prints dos projetos se for criar em HTML.
-Se quiser, posso montar esse portfólio já em HTML/CSS pronto para subir no GitHub Pages ou Netlify.
+
+- Substitua todos os placeholders (por exemplo, Jefferson, links, nomes de projetos) pelos seus dados reais e atualizados.
+- Inclua capturas de tela (screenshots) ou demonstrações visuais dos seus projetos caso opte por desenvolver o portfólio em HTML. Isso contribui para uma apresentação mais profissional e facilita a validação visual das suas habilidades técnicas.
+- Caso prefira, posso estruturar este portfólio em HTML e CSS de forma responsiva, pronto para ser hospedado em plataformas como GitHub Pages ou Netlify.
