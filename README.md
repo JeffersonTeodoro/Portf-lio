@@ -9,7 +9,7 @@ Sou desenvolvedor full stack com experiência em construir aplicações robustas
 ### 🚀 Front-End
 - HTML5, CSS3, JavaScript, TypeScript
 - React.js, React Native
-- Responsividade e Acessibilidade
+  
 
 ### ⚙️ Back-End
 - Python (Básico)
