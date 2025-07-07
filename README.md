@@ -34,9 +34,8 @@ Este projeto é um site desenvolvido com HTML,  e JavaScript, com o objetivo de 
 - Layout responsivo que se adapta a diferentes dispositivos (computador, tablet e celular).
 - Estilo visual moderno e atraente.
 - Organização clara dos conteúdos, facilitando a navegação.
-Este projeto foi criado para fins de aprendizado em desenvolvimento web, explorando conceitos de estruturação de conteúdo (HTML), estilização (JavaScript).
-  
-[Link do prejeto](https://jeffersonteodoro.github.io/projeto-carros/) 
+  Este projeto foi criado para fins de aprendizado em desenvolvimento web, explorando conceitos de estruturação de conteúdo (HTML), estilização (JavaScript).
+- [Link do prejeto](https://jeffersonteodoro.github.io/projeto-carros/) 
 
 # 🌟 Projeto Em Java 
 - Descrição: 📝 Descrição do Projeto
@@ -45,9 +44,8 @@ O projeto utiliza conceitos básicos como:
 - Entrada de dados com Scanner
 - Estruturas de controle (if, switch, do-while)
 - Manipulação de listas com ArrayList
-- Organização simples e limpa de código Java
-  
-Este projeto é ideal para estudantes em fase inicial de aprendizado em Java e pode ser evoluído para incluir novos recursos como cadastro completo (com idade, e-mail, etc), armazenamento em arquivos ou até mesmo uma interface gráfica futuramente.
+- Organização simples e limpa de código Java 
+- Este projeto é ideal para estudantes em fase inicial de aprendizado em Java e pode ser evoluído para incluir novos recursos como cadastro completo (com idade, e-mail, etc),    armazenamento em arquivos ou até mesmo uma interface gráfica futuramente.
 
 🛠️ Tecnologias Utilizadas
 - **Java SE** (Java Standard Edition)
