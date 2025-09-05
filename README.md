@@ -68,10 +68,8 @@ Aplicação simples via **terminal**, criada para praticar os fundamentos da lin
 
 ---
 
-## 🎓 Formação Acadêmica
-- **Engenharia de Software – Estácio** (em andamento, 4 anos)
-
-## 📜 Certificações
+## 📜 Cursos e Certificações
+- Udemy – **Java COMPLETO: Programação Orientada a Objetos + Projetos**
 - Jornada do Dev (2025) – Git & GitHub  
 - Jornada do Dev (2025) – JavaScript  
 - Jornada do Dev (2025) – Desenvolvedor de Aplicativos  
