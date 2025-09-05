@@ -67,9 +67,10 @@ Aplicação simples via **terminal**, criada para praticar os fundamentos da lin
 - Terminal / Prompt de comando  
 
 ---
+## 🎓 Cursos
+- **Java COMPLETO: Programação Orientada a Objetos + Projetos** – Udemy 
 
-## 📜 Cursos e Certificações
-- Udemy – **Java COMPLETO: Programação Orientada a Objetos + Projetos**
+## 📜 Certificações
 - Jornada do Dev (2025) – Git & GitHub  
 - Jornada do Dev (2025) – JavaScript  
 - Jornada do Dev (2025) – Desenvolvedor de Aplicativos  
