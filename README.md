@@ -1,84 +1,94 @@
-# 🎯 *Portfólio de Desenvolvedor Full Stack*
+# 🎯 Portfólio de Desenvolvedor Full Stack
 
-### 👋 Olá! Eu sou Jefferson França Teodoro
-- **Desenvolvedor Full Stack** | Apaixonado por criar soluções digitais do backend ao frontend
-Sou desenvolvedor full stack com experiência em construir aplicações robustas e escaláveis, unindo performance, design responsivo e uma excelente experiência para o usuário. Tenho conhecimento em diversas tecnologias modernas e estou sempre buscando evoluir como profissional e contribuir com projetos desafiadores.
+## 👋 Sobre mim
+Olá! Eu sou **Jefferson França Teodoro**, desenvolvedor **Full Stack** apaixonado por criar soluções digitais do backend ao frontend.  
+Tenho experiência em construir aplicações robustas e escaláveis, unindo performance, design responsivo e uma excelente experiência para o usuário.  
+Estou sempre em busca de evoluir como profissional e contribuir em projetos desafiadores.
 
-# 🛠 Minhas Habilidades
+---
+
+## 🛠 Habilidades
 
 ### 🚀 Front-End
-- HTML5, CSS3, JavaScript, TypeScript
-- React.js, React Native
-  
+- HTML5, CSS3, JavaScript, TypeScript  
+- React.js, React Native  
 
 ### ⚙️ Back-End
-- Python (Básico)
-- Java (Spring Boot)
-- JavaFx
--  REST API 
-  
-# 💾 Banco de Dados
-- Relacionais: PostgreSQL, MySQL
-- NoSQL: MongoDB,
-- JDBC: SOL
+- Java (Spring Boot)  
+- JavaFX  
+- Python (básico)  
+- REST API  
 
-# ☁️ DevOps 
-- Git, GitHub
-  
-# 💼 Projetos em Destaque
-- 🌟 Projeto Carros 
--🚗 Projeto Carros - Site de Apresentação de Modelos Automotivos
-Este projeto é um site desenvolvido com HTML,  e JavaScript, com o objetivo de apresentar diversos modelos de carros de forma visual e organizada. Nele, os usuários podem visualizar informações, imagens e características dos veículos destacados.
-- Principais características:
-- Página inicial com destaque para os principais modelos.
-- Layout responsivo que se adapta a diferentes dispositivos (computador, tablet e celular).
-- Estilo visual moderno e atraente.
-- Organização clara dos conteúdos, facilitando a navegação.
-  Este projeto foi criado para fins de aprendizado em desenvolvimento web, explorando conceitos de estruturação de conteúdo (HTML), estilização (JavaScript).
-- [Link do prejeto](https://jeffersonteodoro.github.io/projeto-carros/) 
+### 💾 Banco de Dados
+- Relacionais: PostgreSQL, MySQL  
+- NoSQL: MongoDB  
+- JDBC / SQL  
 
-# 🌟 Projeto Em Java 
-- Descrição: 📝 Descrição do Projeto
-Este projeto é um sistema de cadastro de usuários em Java, desenvolvido com foco em iniciantes que desejam praticar os fundamentos da linguagem. A aplicação é executada via terminal e permite que o usuário cadastre nomes, visualize a lista de usuários cadastrados e encerre o programa de forma interativa.
-O projeto utiliza conceitos básicos como:
-- Entrada de dados com Scanner
-- Estruturas de controle (if, switch, do-while)
-- Manipulação de listas com ArrayList
-- Organização simples e limpa de código Java 
-- Este projeto é ideal para estudantes em fase inicial de aprendizado em Java e pode ser evoluído para incluir novos recursos como cadastro completo (com idade, e-mail, etc),    armazenamento em arquivos ou até mesmo uma interface gráfica futuramente.
+### ☁️ DevOps
+- Git & GitHub  
 
-🛠️ Tecnologias Utilizadas
-- **Java SE** (Java Standard Edition)
-- **JDK** (Java Development Kit) 8 ou superior
-- **Scanner** (entrada de dados pelo console)
-- **ArrayList** (armazenamento dinâmico de nomes)
-- **Terminal / Prompt de Comando**
-- [Link: Ver projeto](https://jeffersonteodoro.github.io/projeto-Java-/)
+---
 
-# 🧭 Formação - Em breve 
-- Estácio
-- Período: 4 Anos de para formação.
-- Desenvolvimento full stack - Engenharia de software
+## 💼 Projetos em Destaque
 
-# 🎓 Formação - Curso 
-- Jornada do Dev – Ano - 2025 - [Certificado Git-Github](https://jornadadodev.com.br/certificados/5e319d5e-e52d-4eba-ae83-fedc1043b5ca)
-- Jornada do Dev - Ano - 2025 - [Certificado JavaScript](https://jornadadodev.com.br/certificados/622f547d-3295-4554-9e6f-3937b484aff5)
-- Dio - Ano - 2025 - [Certificado Portfólio](https://drive.google.com/file/d/1ZBDn8oL-JHi266dL95fspCjt97gRLjFj/view?pli=1)
-- Jornada do Dev - Ano -2025 - [Certificado Desenvolvedor de Aplicativos](https://jornadadodev.com.br/certificados/59ec58f4-201f-4d60-8e5d-21ca9a504b24)
-# 💬 O que me motiva
-- Criar produtos que gerem impacto real na vida das pessoas. Acredito no poder da tecnologia bem-feita para transformar negócios e melhorar experiências.
+### 🌟 [Projeto Carros](#) 🚗  
+**Site de Apresentação de Modelos Automotivos**  
+Projeto desenvolvido com **HTML e JavaScript**, com o objetivo de apresentar diversos modelos de carros de forma visual e organizada.  
 
-# 📫 Contato
-- ✉️ Email: jeffersonfranca199@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)  
-- 🐙  [Instagram](https://www.instagram.com/franca_teodoro/)
+**Principais características:**
+- Página inicial com destaque para os principais modelos.  
+- Layout responsivo que se adapta a computador, tablet e celular.  
+- Estilo visual moderno e atraente.  
+- Organização clara dos conteúdos, facilitando a navegação.  
 
-# 📂 Download do Currículo
-- Baixar CV em PDF
-- [Currículo](https://1drv.ms/i/c/23e3663edd36cb5e/Edzbux06q-tPnjlJA2yFTfYBkJNl246r2eRroDRXIfSULQ?e=oe9Jip/)
+---
 
-# ⚡ Dicas de Personalização
+### 🌟 [Projeto em Java](#) 📝  
+**Sistema de Cadastro de Usuários em Java**  
+Aplicação simples via **terminal**, criada para praticar os fundamentos da linguagem.  
 
-- Substitua todos os placeholders (por exemplo, Jefferson, links, nomes de projetos) pelos seus dados reais e atualizados.
-- Inclua capturas de tela (screenshots) ou demonstrações visuais dos seus projetos caso opte por desenvolver o portfólio em HTML. Isso contribui para uma apresentação mais profissional e facilita a validação visual das suas habilidades técnicas.
-- Caso prefira, posso estruturar este portfólio em HTML e CSS de forma responsiva, pronto para ser hospedado em plataformas como GitHub Pages ou Netlify.
+**Funcionalidades:**
+- Cadastro de nomes  
+- Visualização da lista de usuários  
+- Encerramento interativo do programa  
+
+**Conceitos aplicados:**
+- Entrada de dados com `Scanner`  
+- Estruturas de controle (`if`, `switch`, `do-while`)  
+- Manipulação de listas com `ArrayList`  
+- Organização simples e limpa de código  
+
+> 🔮 Futuras melhorias: cadastro completo (nome, idade, e-mail), persistência em arquivos/MySQL, interface gráfica (JavaFX).  
+
+**Tecnologias utilizadas:**
+- Java SE 8+  
+- Scanner (entrada de dados pelo console)  
+- ArrayList  
+- Terminal / Prompt de comando  
+
+---
+
+## 🎓 Formação Acadêmica
+- **Engenharia de Software – Estácio** (em andamento, 4 anos)
+
+## 📜 Certificações
+- Jornada do Dev (2025) – Git & GitHub  
+- Jornada do Dev (2025) – JavaScript  
+- Jornada do Dev (2025) – Desenvolvedor de Aplicativos  
+- Dio (2025) – Criação de Portfólio  
+
+---
+
+## 💬 O que me motiva
+Criar produtos que gerem impacto real na vida das pessoas.  
+Acredito no poder da tecnologia bem-feita para transformar negócios e melhorar experiências.
+
+---
+
+## 📫 Contato
+- ✉️ Email: [jeffersonfranca199@gmail.com](mailto:jeffersonfranca199@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/) 
+- 🐙 [GitHub](https://github.com/JeffersonTeodoro)  
+- 📂 [Currículo em PDF](https://1drv.ms/i/c/23e3663edd36cb5e/Edzbux06q-tPnjlJA2yFTfYBkJNl246r2eRroDRXIfSULQ?e=oe9Jip/) 
+
+---
