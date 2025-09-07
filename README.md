@@ -28,6 +28,38 @@ Estou sempre em busca de evoluir como profissional e contribuir em projetos desa
 - Git & GitHub  
 
 ---
+# 🦶 Projeto Podologia (Java) - Layout Visual de Pastas e Arquivos
+```
+ProjetoPodologia/  🏠
+│
+├── src/  💻
+│   ├── application/  🏗️
+│   │   └── Programa.java  ⚙️  # Classe principal (menu)
+│   │
+│   ├── data/  📂
+│   │   ├── clientes.txt  📝  # Armazena os clientes
+│   │   └── atendimentos.txt  📝  # Armazena os atendimentos
+│   │
+│   ├── model/  🧩
+│   │   ├── Cliente.java  👤  # Modelo do cliente
+│   │   └── Atendimento.java  💼  # Modelo do atendimento
+│   │
+│   ├── service/  🔧
+│   │   └── AtendimentoService.java  📊  # Lógica de negócio
+│   │
+│   ├── util/  🛠️
+│   │   └── FileManager.java  💾  # Manipulação de arquivos
+│   │
+│   └── view/  🖥️
+│       ├── MainView.java  🏠  # Janela principal
+│       ├── JanelaFinanceiro.java  💰  # Tela financeira
+│       ├── TelaAtendimentos.java  📅  # Tela de atendimentos
+│       ├── TelaClientes.java  👥  # Tela de clientes
+│       └── TelaPrincipal.java  🏁  # Tela inicial
+│
+└── README.md  📖  # Documentação do projeto
+```
+
 
 ## 💼 Projetos em Destaque
 
