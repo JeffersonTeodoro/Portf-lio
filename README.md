@@ -99,7 +99,8 @@ Aplicação simples via **terminal**, criada para praticar os fundamentos da lin
 
 ---
 ## 🎓 Cursos
-- **Java COMPLETO: Programação Orientada a Objetos + Projetos** – Udemy 
+- **Java COMPLETO: Programação Orientada a Objetos + Projetos** – Udemy
+- Engenharia de Software - Udemy 
 
 ## 📜 Certificações
 - Jornada do Dev (2025) – Git & GitHub  
